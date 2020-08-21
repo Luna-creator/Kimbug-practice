@@ -23,7 +23,7 @@ body {
 }
 
 body::after {
-  content: "kimbug©";
+  content: "©Luna";
   display: block;
   margin-top: 50px;
   color: #fff;
